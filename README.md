@@ -31,12 +31,17 @@
 **ВСЁ В ОДНОМ МЕСТЕ. БЕЗ ЛИШНЕГО.**
 
 ---
+<div align="center">
 
 ### 📬 СВЯЗАТЬСЯ СО МНОЙ
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Kofein-RUS)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sampaizona@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HACK_SERG)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sampaizona@mail.ru)
 
-<sub>© 2025 · Сделано в стиле DeepStyle</sub>
+---
+
+✈️ **Telegram:** [`@HACK_SERG`](https://t.me/HACK_SERG)
+📧 **Email:** [`sampaizona@mail.ru`](mailto:sampaizona@mail.ru)
 
 </div>
